@@ -1,0 +1,190 @@
+#menu ul { 
+    padding:0px;
+    margin:0px;
+    background-color:rgb(89, 10, 126);
+    list-style:none;
+  }
+  #menu ul li { 
+    display: inline;
+ }
+ #menu ul li a { 
+    padding: 20px 100px; 
+    display: inline-block; 
+    background-color:rgb(89, 10, 126);
+    color: white; 
+    text-decoration: none; 
+    font-size: 16pt;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#menu ul li a:hover { 
+  padding: 20px 100px; 
+  display: inline-block; 
+  background-color:rgb(173, 54, 228);
+  color: white; 
+  text-decoration: none; 
+  font-size: 16pt;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+#imagem{
+    padding:6px;
+    margin:8px;
+    display: inline-block;
+}
+
+
+#imagem img{
+    display: inline;
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+    margin-left: 100px;
+    margin-top: 50px;
+
+}
+
+p{
+    color:rgb(89, 10, 126);
+    text-decoration: none; 
+    font-size: 12pt;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 130px;
+    font-weight: bold;
+   
+}
+  .btn_comprar {
+    background-color: #9c1ab6; 
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin-inline-end: 5px;
+    margin-left: 115px;
+    margin-bottom: 50px;
+  }
+  .btn_comprar:hover {
+    background-color: #db7fee; 
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin-inline-end: 5px;
+    margin-left: 115px;
+    margin-bottom: 50px;
+  }
+  #imagem ul { 
+    padding:20px;
+    margin-top:-55px;
+    list-style: circle;
+    margin-left: 80px;
+    font-size: 12pt;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+   
+        
+  }
+  #imagem ul li { 
+    display: inline-block;
+    margin-left: 0px;
+         
+ }
+ .checkbox {
+  width: 15px;
+  height: 15px;
+  background-color: rgb(182, 178, 178);
+  border-radius: 50%;
+  vertical-align: middle;
+  appearance: none;
+  -webkit-appearance: none;
+  outline: none;
+  cursor: pointer;
+  display: inline-block;
+  border-color: grey;
+ 
+  
+}
+.checkbox:hover {
+  width: 15px;
+  height: 15px;
+  background-color: rgb(196, 192, 192);
+  border-radius: 50%;
+  vertical-align: middle;
+  appearance: none;
+  -webkit-appearance: none;
+  outline: none;
+  cursor: pointer;
+  display: inline-block;
+  border-color: grey;
+}
+
+#form { 
+    padding:8px;
+    margin:0px;
+    background-color:rgb(245, 165, 228);
+    list-style:none;
+    margin-right: 0px;
+    
+  }
+  
+  #form label { 
+    display: inline;
+    font-size: 10pt;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-inline-end: 5px;
+  
+ }
+ .campo{ 
+    display: inline;
+    border-color: #d3cad3;
+    width: 300px;
+    
+    
+ }
+ #form legend{
+    font-size: 14pt;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #77038f;
+    margin-left: 35px;
+    margin-top: 10px;
+    font-weight: bold;
+ }
+ #form label{
+  font-size: 10pt;
+  margin-bottom: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #77038f;
+  margin-left: 35px;
+  
+}
+ .btn_submit{
+  background-color: #e255e2; 
+  border-color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin-left: 2%;
+  color: white;
+}
+.btn_submit:hover {
+  background-color: #881288; 
+  padding:10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin-left: 2%;
+  color: white;
+  border-color: white;
+  
+}
