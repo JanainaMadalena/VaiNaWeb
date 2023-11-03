@@ -1,0 +1,231 @@
+html, body {
+	margin: 0;
+ 
+}
+
+nav { 
+    
+    list-style:none;
+    padding: 10px 75px; 
+    display: inline-flex; 
+    background-color:black;
+    text-decoration: none; 
+    font-size: 16pt;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1198px; 
+    height: 70px;
+    
+  }
+  .img1{
+    display: inline-flex;
+    margin: 1px; 
+    padding:  20px 20px;      
+  }
+  .img2{
+    display: inline-flex;
+    margin: 1px; 
+    padding: 20px 20px;     
+  }
+  .img3{
+    display: inline-flex;
+    margin: 1px; 
+    padding:  20px 20px;  ;    
+  }
+  .pata{
+    display: inline-flex;
+    margin-right: -35px;    
+        
+ }  
+  .text1 {
+    margin-right: 800px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    display: flexbox;    
+    margin-top: 20px;
+  
+       
+ }
+
+  .text2 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 40px 15px;
+    position: absolute;
+    font-size: 62px;
+    right: 10px;
+    top: -110px;
+    margin: 325px;
+    
+    
+  }
+  .text3 {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    padding: 40px 250px;
+    position: absolute;
+    font-size: 62px;
+    top: 1200px;
+    right: 400px;
+     
+  } 
+
+  .paragrafo1{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    padding: 40px 250px;
+    position: absolute;
+    font-size: 32px;
+    top: 1400px;
+    right: 500px;
+   
+}
+
+  .btn1 {
+    background-color: rgb(27, 27, 27); 
+    border: none;
+    color: white;
+    padding: 32px 100px;
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+    font-size:26px;
+    top: 1800px;
+    left: 230px;
+    border-radius: 60px;
+    cursor: pointer;
+  }
+  .btn1:hover {
+    background-color: rgb(77, 75, 77);
+    border: none;
+    color: white;
+    padding: 32px 100px;
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+    font-size:26px;
+    top: 1800px;
+    left: 230px;
+    border-radius: 60px;
+    cursor: pointer;
+  }
+  .text4 {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 40px 250px;
+    position: absolute;
+    font-size: 62px;
+    top: 2050px;
+    left: 400px;
+     
+  } 
+  .paragrafo2{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 40px 250px;
+    position: absolute;
+    font-size: 32px;
+    top: 2230px;
+    left: 400px;
+     
+   
+}
+  .btn2 {
+    background-color: rgb(255, 255, 255); 
+    border: none;
+    color: rgb(20, 20, 20);
+    padding: 32px 100px;
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+    font-size:26px;
+    top: 2580px;
+    right: 360px;
+    border-radius: 60px;
+    cursor: pointer;
+  }
+  .btn2:hover {
+    background-color: rgb(230, 224, 224); 
+    border: none;
+    color: rgb(20, 20, 20);
+    padding: 32px 100px;
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+    font-size:26px;
+    top: 2580px;
+    right: 360px;
+    border-radius: 60px;
+    cursor: pointer;
+  }
+  .img  { 
+    width: 1349px; 
+   
+  }
+  .imgpata2{
+    position: absolute;
+    font-size: 32px;
+    left: 280px;
+    top: 120px;
+    margin: 325px;
+  }
+  .propaganda{
+    width: 1175px; 
+    height: 150px;
+  }
+  .name {
+    text-align: left;
+    font-family: times, Helvetica, sans-serif;
+    font-style: italic;
+    color: #f75f8e;
+    padding: 40px 1px;
+    position: absolute;
+    font-size: 32px;
+    top: 3030px;
+    right: 0;
+    display: inline-flex;
+    margin: 10px; 
+    width: 1175px; 
+    height: 70px;   
+     
+  } 
+  .imgpropaganda1{
+    display: inline-flex;
+    left: 3000px;
+    margin: 20px; 
+    padding: 20px 310px;
+     
+  }
+  .imgpropaganda2{
+    display: inline-flex;
+    margin: 10px; 
+    padding: 30px 10px;  
+    
+  }
+ footer {  
+  background-color:#f75f8e;
+  width: 1349px; 
+  height: 500px; 
+  display: flex;
+}
+.titulo{
+  font-size: 18pt;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  display: flex;
+  padding: 100px 150px;;  
+}
+.sub{
+  font-size: 14pt;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  display: flexbox; 
+  margin-left: 150px;
+  display: flex;
+}
